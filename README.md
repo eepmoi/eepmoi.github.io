@@ -1,37 +1,88 @@
-## Welcome to GitHub Pages
+```yaml
+about_me:
+  true:
+    - Everything as code, automate everything - even myself out of a job.
+    - Containers, K8s and Cloud first approach.
+    - However, sometimes it's the best/simplest tool for the job.
+    - Simple is best - this applies to code, architecture, everything really.
+    - Moving outside comfort zone to learn new tech and skills.
+    - Operating and managing applications at scale.
+    - Customer experience and self service are key.
+    - No difference between internal and external customers.
+    - Management, product and delivery lens having done it all before.
 
-You can use the [editor on GitHub](https://github.com/eepmoi/eepmoi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+  false:
+    - The smartest person in the room.
+    - Individual over team.
+    - Solving riddles with 4D arrays or in a single line of code - simple is best!
+    - n+ years experience in a single tech.
+    - Memorising reference manuals.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+tookit:
+  cloud:
+    gcp:
+      - GKE
+      - Cloud Build
+      - Stackdriver
+    aws:
+      - ECS
+      - EC2
+      - RDS
 
-### Markdown
+  ci_cd_tooling:
+    - Jenkins
+    - Spinnaker
+    - Bamboo
+    - Artifactory
+    - GitHub Enterprise
+    - Terraform Enterprise
+    - Clair
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  recent_code:
+    - Docker
+    - Kubernetes
+    - Terraform
+    - Ansible
+    - Bash
+    - Make
+    
+  can_read_code:
+    - Python
+    - Java
+    - Golang
+    - Scheme
 
-```markdown
-Syntax highlighted code block
+  learning_code:
+    - DotNet Core
 
-# Header 1
-## Header 2
-### Header 3
+  other_tech:
+    - Jira
+    - Confluence
+    - Siebel CRM
+    - NexJ Systems CRM
 
-- Bulleted
-- List
+  management:
+    - People Management
+    - Product Management
+    - Delivery Management
+    - Vendor Management
+    - Recruitment
+    - Team Building / Coaching
+    - Technical Lead
+    - Solution Architecture
+    - Transformation
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+interests:
+  football:
+    - Liverpool
+    - Melbourne Victory
+  aussie_rules:
+    - Essendon
+  fantasy_football:
+    - AFL
+    - EPL
+  other:
+    - Snowboarding
+    - Japan
+    - KFC
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eepmoi/eepmoi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
